@@ -1,3 +1,4 @@
+Werkzeug==1.0.1
 python-decouple
 telethon
 Flask==2.2.2
